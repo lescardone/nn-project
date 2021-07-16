@@ -6,6 +6,8 @@
 #
 final/final-model/
 photos/
+*.key
+*/*.key
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
