@@ -4,7 +4,7 @@
 */*/.DS_Store
 
 #
-final/final-model/
+*/final-model/
 photos/
 *.key
 */*.key
